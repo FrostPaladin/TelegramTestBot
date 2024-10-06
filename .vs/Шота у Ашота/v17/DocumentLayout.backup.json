@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|g:\\base folder\\stuff\\progstuff\\projects\\\u0448\u043E\u0442\u0430 \u0443 \u0430\u0448\u043E\u0442\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\base folder\\stuff\\Progstuff\\Telegram.Bot.Examples-master\\Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|g:\\base folder\\stuff\\progstuff\\projects\\\u0448\u043E\u0442\u0430 \u0443 \u0430\u0448\u043E\u0442\u0430\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|g:\\base folder\\stuff\\progstuff\\projects\\\u0448\u043E\u0442\u0430 \u0443 \u0430\u0448\u043E\u0442\u0430\\\u0448\u043E\u0442\u0430 \u0443 \u0430\u0448\u043E\u0442\u0430.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11FE37B3-CE07-4CD0-B523-BE866DDD8D2F}|\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj|solutionrelative:\u0448\u043E\u0442\u0430 \u0443 \u0430\u0448\u043E\u0442\u0430.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Telegram.Bot.Examples-master\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Telegram.Bot.Examples-master\\Console\\Program.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Telegram.Bot.Examples-master\\Console\\Program.cs",
+              "RelativeToolTip": "..\\..\\Telegram.Bot.Examples-master\\Console\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:04:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nuget.config",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\nuget.config",
+              "RelativeDocumentMoniker": "nuget.config",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\nuget.config",
+              "RelativeToolTip": "nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T16:11:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj",
+              "RelativeDocumentMoniker": "\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj",
+              "RelativeToolTip": "\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T16:08:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\base folder\\stuff\\Progstuff\\Projects\\\u0428\u043E\u0442\u0430 \u0443 \u0410\u0448\u043E\u0442\u0430\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowHoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:59:12.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

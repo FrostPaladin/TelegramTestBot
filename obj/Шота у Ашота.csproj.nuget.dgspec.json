@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\Шота у Ашота.csproj": {}
+  },
+  "projects": {
+    "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\Шота у Ашота.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\Шота у Ашота.csproj",
+        "projectName": "Шота у Ашота",
+        "projectPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\Шота у Ашота.csproj",
+        "packagesPath": "C:\\Users\\79779\\.nuget\\packages\\",
+        "outputPath": "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\base folder\\stuff\\New folder (2)\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\base folder\\stuff\\Progstuff\\Projects\\Шота у Ашота\\NuGet.Config",
+          "C:\\Users\\79779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "G:\\base folder\\stuff\\dwnldos": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/tgbots/Telegram.Bot/_packaging/release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[21.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

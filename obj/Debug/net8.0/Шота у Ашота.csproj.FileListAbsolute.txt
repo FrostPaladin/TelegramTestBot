@@ -1,0 +1,17 @@
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Шота у Ашота.exe
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Шота у Ашота.deps.json
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Шота у Ашота.runtimeconfig.json
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Шота у Ашота.dll
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Шота у Ашота.pdb
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\bin\Debug\net8.0\Telegram.Bot.dll
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.csproj.AssemblyReference.cache
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.GeneratedMSBuildEditorConfig.editorconfig
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.AssemblyInfoInputs.cache
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.AssemblyInfo.cs
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.csproj.CoreCompileInputs.cache
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\____ _ _.44A0E8DB.Up2Date
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.dll
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\refint\Шота у Ашота.dll
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.pdb
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\Шота у Ашота.genruntimeconfig.cache
+G:\base folder\stuff\Progstuff\Projects\Шота у Ашота\obj\Debug\net8.0\ref\Шота у Ашота.dll
