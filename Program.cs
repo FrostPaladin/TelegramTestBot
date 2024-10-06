@@ -8,7 +8,7 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 using static System.Net.Mime.MediaTypeNames;
 
-var token = Environment.GetEnvironmentVariable("TOKEN") ?? "token_hidden_for_security_look_below";
+var token = Environment.GetEnvironmentVariable("TOKEN") ?? "7131927351:AAHqPA2Rj_cQGiBIMzBLd-wbD1rVz4L8buo";
 Dictionary<int, string> nameChat = new Dictionary<int, string>();
 int n = 1;
 int i = 1;
@@ -198,5 +198,4 @@ async Task OnCommand(string command, string args, Message msg)
                 """, parseMode: ParseMode.Html, linkPreviewOptions: true);
             break;
     }
-}
-// token is !7131927351:AAHqPA2Rj_cQGiBIMzBLd-wbD1rVz4L8buo! copy between excl marks                                          
+}                                        
